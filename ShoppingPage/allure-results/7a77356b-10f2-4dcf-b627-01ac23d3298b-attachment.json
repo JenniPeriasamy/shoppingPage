@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "button[class=\"button btn btn-default button-medium\"]"
+}
