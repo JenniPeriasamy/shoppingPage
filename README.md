@@ -31,6 +31,7 @@ Validate the selected items in the checkout page.
 5. Adding wido config file
     1. ./node_modules/.bin/wdio config
     
-6. To run the tests:  npm test
+6. To run the tests: run  'npm test' from the root directory ShoppingPage
+7. reports avaialble in the ./allure-reports.
 
 
